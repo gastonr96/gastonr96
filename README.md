@@ -1,4 +1,6 @@
-## 👋 About Me
+## 👋 Hi everyone! My name is Gaston Rubiolo
+
+I'm a Data Analyst & Scientist
 
 I'm passionate about **data analysis**, **machine learning**, and **data engineering**.  
 I enjoy working on projects that turn data into actionable insights and help drive better decisions.
