@@ -27,4 +27,5 @@ I have experience applying data analysis, visualization, and predictive modeling
 
 🚀 I'm looking for opportunities to grow as a **data professional** and contribute to **impactful projects**.
 
-
+Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!
+You can contact me at: gastonrubiolo3@gmail.com
