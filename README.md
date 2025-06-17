@@ -1,7 +1,5 @@
 ## 👋 Hi everyone! My name is Gaston Rubiolo
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87081427?v=4" width="120" height="120" style="border-radius: 50%" />
-</p>
+
 I'm a Data Analyst & Scientist
 
 I'm passionate about **data analysis**, **machine learning**, and **data engineering**.  
