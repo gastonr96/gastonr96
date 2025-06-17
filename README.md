@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**gastonr96/gastonr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **data analysis**, **machine learning**, and **data engineering**.  
+I enjoy working on projects that turn data into actionable insights and help drive better decisions.
 
-Here are some ideas to get you started:
+I have experience applying data analysis, visualization, and predictive modeling techniques, and I’m continuously learning best practices in data handling, modeling, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+
+- 📊 **Data Analysis & Visualization**:  
+  `Python (Pandas, Matplotlib, Seaborn)` | `SQL` | `Power BI`
+
+- 🤖 **Machine Learning**:  
+  `Scikit-learn` | `TensorFlow/Keras (basic knowledge)`
+
+- ☁️ **Data Engineering & Cloud**:  
+  `ETL processes` | `Data pipelines` | `Git` | `Docker` | `Google Cloud Platform (GCP)` | `BigQuery`
+
+- 🧰 **Other**:  
+  `Jupyter Notebooks` | `GitHub` | `Teamwork` | `Problem-solving`
+
+---
+
+🚀 I'm looking for opportunities to grow as a **data professional** and contribute to **impactful projects**.
+
+
